@@ -1,0 +1,21 @@
+H2 {
+	text-align: center;
+	font-size: 30px;
+	margin-top: 5px;
+	
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 700px
+}
+
+#section-login {
+    height: 230px;
+    width: 300px;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 10px 15px;
+}
