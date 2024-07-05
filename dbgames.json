@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "jogo 1",
+      "descricao": "Descrição do jogo 1",
+      "foto": "Jogo1.png",
+      "preco": 500
+    },
+    {
+      "id": "2",
+      "produto": "Jogo 2",
+      "descricao": "Descrição do jogo 2",
+      "foto": "Jogo2.png",
+      "preco": 300
+    },
+    {
+      "id": "3",
+      "produto": "jogo 3",
+      "descricao": "Descrição do jogo 1",
+      "foto": "Jogo3.png",
+      "preco": 100
+    },
+    {
+      "id": "0",
+      "produto": "Jogo 4",
+      "descricao": "Jogo 4",
+      "foto": "Jogo1.png",
+      "preco": 200
+    },
+    {
+      "id": 0,
+      "produto": "Jogo 11",
+      "descricao": "Jogo muito bom",
+      "foto": "Jogo1.png",
+      "preco": 5550
+    },
+    {
+      "id": "EglMz6a",
+      "produto": "Novo jogo",
+      "descricao": "Teste com o novo jogo",
+      "foto": "Jogo3.png",
+      "preco": 364
+    }
+  ]
+}
